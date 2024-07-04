@@ -1,8 +1,6 @@
-# FTA_palms_mammals
-
 This is the code repository for the project: 
 
-> Distinct functional responses of consumers and their producers to climate drive mutualistic network asymmetry
+# Distinct functional responses of consumers and their producers to climate drive mutualistic network asymmetry
 
 
 ## ABSTRACT
