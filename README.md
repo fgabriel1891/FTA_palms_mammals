@@ -1,3 +1,6 @@
+THIS REPOSITORY IS DEPRECATED FOLLOWING EDITIORIAL REJECTION.
+
+
 This is the code repository for the project: 
 
 # Distinct functional responses of consumers and their producers to climate drive mutualistic network asymmetry
